@@ -111,7 +111,7 @@ border-radius: 7px;
 .hit{
 position: absolute; 
 width:110px;
-heidth: 200px;
+heigth: 200px;
 top: 34px;
 right: 46px;
 }
@@ -125,7 +125,7 @@ right: 46px;
 h1::before, h1::after{
 content: url("https://drive.google.com/uc?export=view&id=1_OzL0eMQN8yePNKiKs8M4xP2b1blCulJ");
 width: 10px;
-heidth: 10px;
+heigth: 10px;
 }
 .article-but:hover{
 background-color: #9440D5;
